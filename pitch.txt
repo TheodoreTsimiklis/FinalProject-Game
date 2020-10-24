@@ -1,0 +1,25 @@
+*TITLE*(Don't know yet)
+
+Game idea: My game is going to be a survival type game, where the goal is going to be to survive
+		as long as possible to make it out alive by collecting different items that will help in that process. There 
+		could also be items that can grant good effects but give bad side effects. The survival process will be in days
+		and the player will have a certain amount of tasks to do each day in order to increase his chance of survival. 
+		Each day will be 3 1/2 minutes.
+
+
+Scenario and character/s description: The scenario will be taking place around the characters campsite in a forest(1000 X 1000 (this could change)). There will be some trees maybe bushes(forest like things).
+					For the character he is an outdoorsman who likes to go camping on his own time. He has no wife or kids and his family doesn't know he went camping. 
+
+
+Characters actions and goals: The character can run around pick up items to help him survive also consume some items he picks up. The goal of this man is to fix his car by finding 
+				scrap metal to help him fix it (found randomly on the map but is rare) in order to escape.
+
+
+Win and Lose conditions: To win, you must repair your car using the scrap metal and once it has the # of scrap metal it needs you win. To lose, since items that help your survival each day become more scarce, 
+				the character can die by losing all his health.
+
+
+Progression of levels: Its more days then levels but every 3 1/2 minutes there is a new day which is basically a new level since items randomly spawn and become more scarce.
+
+
+Source of inspiration: The game called "60 seconds" its a survival game that takes place in a nuclear fallout. You need to do certain task to survive.
